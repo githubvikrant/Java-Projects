@@ -1,0 +1,15 @@
+com\fileshare\Main.class
+com\fileshare\core\WiFiDirectService$PeerDevice.class
+com\fileshare\core\WiFiDirectService$PeerDiscoveryListener.class
+com\fileshare\core\FileTransferService$TransferType.class
+com\fileshare\core\WiFiDirectService.class
+com\fileshare\core\FileTransferService$TransferProgressListener.class
+com\fileshare\core\FileTransferService$TransferProgress.class
+com\fileshare\core\WiFiDirectService$ConnectionListener.class
+com\fileshare\core\FileTransferService.class
+com\fileshare\core\FileTransferService$TransferStatistics.class
+com\fileshare\ui\MainWindow.class
+com\fileshare\core\FileTransferService$TransferResult.class
+com\fileshare\core\WiFiDirectService$ConnectionStatusListener.class
+com\fileshare\ui\MainWindow$1.class
+com\fileshare\core\FileTransferService$TransferCompletionListener.class
