@@ -1,0 +1,6 @@
+com\music\network\SlaveClient.class
+com\music\Main.class
+com\music\network\MasterServer.class
+module-info.class
+com\music\controller\PlayerController.class
+com\music\ui\PlayerUI.class
